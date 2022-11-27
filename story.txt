@@ -30,6 +30,7 @@ test
 test
 test
 test
+<<<<<<< Updated upstream
 test
 test
 test
@@ -38,3 +39,6 @@ test
 test
 test
 
+=======
+test1
+>>>>>>> Stashed changes
