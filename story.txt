@@ -37,3 +37,7 @@ test
 test
 test
 test
+<<<<<<< Updated upstream
+=======
+new line
+>>>>>>> Stashed changes
